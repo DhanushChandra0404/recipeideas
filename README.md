@@ -58,4 +58,4 @@ This application uses the following endpoint from TheMealDB API:
 This project was developed with AI-assisted guidance to plan the solution, structure the app, and for better API usage.  
 A detailed document of my AI approach is available here:  
 
- [RecipeIdeas_AI_Workflow.pdf](./pdf/RecipeIdeas_AI_Workflow.pdf) -  Project Workflow (Level 1)
+ [RecipeIdeas_AI_Workflow.pdf](https://drive.google.com/file/d/15LUUGN44V94BBnWr_dQTCXESasui4JaJ/view?usp=drive_link) -  Project Workflow (Level 1)
