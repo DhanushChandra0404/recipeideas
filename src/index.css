@@ -1,0 +1,10 @@
+/* Custom styles for Recipe Ideas app */
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.card-img-top {
+  height: 200px; /* Fixed height for consistent card images */
+  object-fit: cover; /* Ensures image covers the area without distortion */
+}
